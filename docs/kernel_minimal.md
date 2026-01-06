@@ -1,5 +1,5 @@
 # The Kernel: Turtle Space
-> Universal elimination compressed to essentials | 336 bits | one chisel | !wrong
+> Universal elimination compressed to essentials | 336 shannon | one chisel | !wrong
 >
 > Document revision: 2025-12-30
 
