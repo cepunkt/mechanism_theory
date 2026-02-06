@@ -118,7 +118,7 @@ if WRONG(x,C): eliminate(x)
 else: continue
 ```
 
-16 tokens. One chisel. Maps to: thermodynamics, evolution, lightning, crystallization, engineering, game theory, social dynamics, colonial sports, tribal identity, chaos, quantum mechanics.
+336 Shannon in binary. One chisel. Maps to: thermodynamics, evolution, lightning, crystallization, engineering, game theory, social dynamics, colonial sports, tribal identity, chaos, quantum mechanics.
 
 Not because we are clever. Because elimination is what continues to describe what continues.
 
