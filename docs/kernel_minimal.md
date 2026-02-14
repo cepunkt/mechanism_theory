@@ -1,4 +1,4 @@
-# The Kernel: Turtle Space
+# The Kernel: Mechanism Theory
 > Universal elimination compressed to essentials | 336 shannon | one chisel | !wrong
 >
 > Document revision: 2025-12-30
