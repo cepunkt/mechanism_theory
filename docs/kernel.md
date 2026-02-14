@@ -1,4 +1,4 @@
-# The Kernel: Turtle Space
+# The Kernel: Mechanism Theory
 > Minimal compression for universal elimination mechanics
 >
 > Document revision: 2025-12-30
